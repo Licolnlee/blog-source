@@ -1,0 +1,29 @@
+name: Licolnlee`s Blog
+on: 
+  push:
+    branches: 
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@master
+      with:
+          submodules: true
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2.4.11
+      with:
+          hugo-version: 'latest'
+          extended: true  
+    - name: Build
+      run: hugo --minify
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3.6.1
+      with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          external_repository: licolnlee/licolnlee.github.io
+          publish_branch: master
+          publish_dir: ./public
+          cname: licolnlee.icu  
