@@ -26,4 +26,5 @@ jobs:
           external_repository: licolnlee/licolnlee.github.io
           publish_branch: master
           publish_dir: ./public
+          keep_files: true
           cname: licolnlee.icu  
