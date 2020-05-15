@@ -54,7 +54,7 @@ preserveTaxonomyNames = true
     since = 2017
     author = "LicolnLee"                          # Author's name
     avatar = "/images/me/avatar.jpg"           # Author's avatar
-    subtitle = "Just for Fun."                  # Subtitle
+    subtitle = "Generating Academic waste & Coding trash..."                  # Subtitle
     home_mode = "" # post or other
     enableGitalk = true # gitalk 评论系统
 
@@ -65,7 +65,7 @@ preserveTaxonomyNames = true
 
     beian = ""
     baiduAnalytics = ""
-    googleAnalytics = "UA-104502658-2" # Google 统计 id
+    googleAnalytics = "G-232821020" # Google 统计 id
 
     license= 'This article uses <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/" target="_blank">the Creative Commons Attribution-Non-Commercial Use 4.0 International License Agreement </a>for licensing'
 
