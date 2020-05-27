@@ -54,7 +54,7 @@ preserveTaxonomyNames = true
     since = 2017
     author = "LicolnLee"                          # Author's name
     avatar = "/images/me/avatar.jpg"           # Author's avatar
-    subtitle = "Generating Academic waste & Coding trash..."                  # Subtitle
+    subtitle = "To improve is to change; to be perfect is to change often."                  # Subtitle
     home_mode = "" # post or other
     enableGitalk = true # gitalk 评论系统
 

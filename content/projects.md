@@ -12,5 +12,5 @@ author: Licolnlee
 
 ## [Community_Health_Management_Project](https://github.com/Licolnlee/Community_Health_Management_Project) Community Health Management Project is a simulated project for community medical support group in service of community social health system.(A undergraduate design project backup)
 
-## [AdBlockList](https://github.com/Licolnlee/AdBlockList) Self-Customized AdBlockList archived by [NeoDevHost Project](https://github.com/neodevpro/neodevhost)
+## [AdBlockList](https://github.com/Licolnlee/AdBlockList) Self-Customized AdBlockList archived by [NeoDevHost Project](https://github.com/neodevpro/neodevhost).
 
